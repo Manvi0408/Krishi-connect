@@ -12,9 +12,10 @@ Originally adapted from FDSS (Farmer Digital Support System), this app is built 
 
 ## Installation
 1. Clone the repository:
-   ```bash
+```bash
   git clone https://github.com/Manvi0408/Krishi-connect.git
-   ```
+```
+
 2. Install dependencies:
    ```bash
    cd FDSS
