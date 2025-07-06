@@ -28,7 +28,7 @@ Originally adapted from FDSS (Farmer Digital Support System), this app is built 
    npm run dev:backend
    npm run dev:frontend
    ```
-2. Open your browser and navigate to `http://localhost:3000`.
+2. Open your browser and navigate to `http://localhost:5173`.
 
 ## Deployment
 To deploy the project on Vercel:
